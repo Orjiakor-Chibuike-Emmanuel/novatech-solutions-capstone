@@ -28,7 +28,7 @@ Conducted a comprehensive end-to-end security assessment for NovaTech Solutions,
 
 ![Network Traffic](Novatech Network Traffic log.png)
 
-![Authentication Logs](Novatech Auth Logs (SOC).png)
+![Authentication Logs](Novatech-Auth-Logs-(SOC).png)
 
 ![SOC Alert Summary](Novatech SOC Alert Summary.png)
 
